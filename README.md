@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/TGBotInc/template_bot">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Шаблон бота aiogram</h3>
