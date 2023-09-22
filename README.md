@@ -8,12 +8,6 @@
 
   <p align="center">
     Мой вариант шаблона для aiogram 3
-    <br/>
-    <a href="https://github.com/TGBotInc/template_bot">View Demo</a>
-    .
-    <a href="https://github.com/TGBotInc/template_bot/issues">Report Bug</a>
-    .
-    <a href="https://github.com/TGBotInc/template_bot/issues">Request Feature</a>
   </p>
 </p>
 
